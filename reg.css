@@ -28,3 +28,12 @@ body{
     border-radius: 100px;
     padding: 5px;
 }
+
+#form{
+    color: #000;
+    margin: 5px;
+    text-align: center;
+    padding: 3px;
+    height: 30px;
+    width: 350px;
+}
