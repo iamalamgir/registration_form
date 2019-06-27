@@ -11,6 +11,7 @@
     <link rel ="stylesheet" href ="reg.css">
 </head>
 <body>
-
+    <h2 class ="header">Welcome To Home</h2>
+    
 </body>
 </html>
