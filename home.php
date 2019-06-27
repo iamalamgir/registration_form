@@ -8,6 +8,7 @@
 <html>
 <head>
     <title>Home</title>
+    <link rel ="stylesheet" href ="reg.css">
 </head>
 <body>
 
