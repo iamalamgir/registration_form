@@ -12,6 +12,10 @@
 </head>
 <body>
     <h2 class ="header">Welcome To Registration Form</h2>
+
+    <div class ="box">
+
+    </div>
     
 </body>
 </html>

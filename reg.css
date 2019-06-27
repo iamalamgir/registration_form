@@ -12,3 +12,12 @@ body{
     text-align: center;
     margin: 0 auto;
 }
+
+.box{
+    height: 500px;
+    width: 400px;
+    background: #dcdde1;
+    border: 3px solid #000;
+    border-radius: 25px;
+    margin: 0 auto;
+}
