@@ -22,6 +22,18 @@ include 'config.php';
             <input name ="logout" type ="submit" id ="button" value ="Log-Out"></input>
             
         </form>
+        <?php
+            if(isset($_POST['logout'])){
+                    echo"
+                        <script>
+                            alert ('You are Successfully Logged out');
+                            window.location.href='login.php';
+                        </script>
+                    ";
+            }else{
+                //logout check
+            }
+        ?>
     </div>
 </body>
 </html>
