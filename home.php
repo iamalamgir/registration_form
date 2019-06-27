@@ -12,6 +12,9 @@
 </head>
 <body>
     <h2 class ="header">Welcome To Home</h2>
-    
+
+    <div class ="box">
+        
+    </div>
 </body>
 </html>
