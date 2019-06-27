@@ -14,7 +14,8 @@
     <h2 class ="header">Welcome To Home</h2>
 
     <div class ="box">
-        
+    <center><img src ="home_icon.png" alt ="Image" class ="img"></center>
+    
     </div>
 </body>
 </html>
