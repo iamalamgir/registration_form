@@ -1,6 +1,6 @@
 <?php
 
-
+include 'config.php';
 
 ?>
 
@@ -27,7 +27,7 @@
             <br>
 
             <input name ="login" type ="submit" id ="button" value ="Log-In"></input>
-            <a href ="#"><input name ="reg" type ="button" id ="button" value ="Registration"></input></a>
+            <a href ="reg.php"><input name ="reg" type ="button" id ="button" value ="Registration"></input></a>
         </form>
     </div>
 
