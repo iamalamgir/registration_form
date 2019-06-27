@@ -32,6 +32,8 @@
             <label>Confirm Password</label>
             <input name ="cpass" type ="password" id ="form" placeholder ="Confirm your Password" required></input>
 
+            <input name ="reg" type ="submit" id ="button" value ="Sign-Up"></input>
+            <a href ="#"><input name ="back" type ="button" id ="button" value ="Back to Log-In"></input></a>
         </form>
 
     </div>
