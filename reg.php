@@ -11,6 +11,7 @@
     <link rel ="stylesheet" href ="reg.css">
 </head>
 <body>
-    Alamgir
+    <h2 class ="header">Welcome To Registration Form</h2>
+    
 </body>
 </html>

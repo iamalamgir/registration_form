@@ -1,3 +1,14 @@
 body{
    background-color: #74B262;
 }
+
+.header{
+    height: 30px;
+    width: 500px;
+    background: #ff4d4d;
+    padding: 10px;
+    border: 2px solid #000;
+    color: #000;
+    text-align: center;
+    margin: 0 auto;
+}
